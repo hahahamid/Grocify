@@ -18,6 +18,13 @@ npm install
 npm run start
 ```
 
+## Preview
+
+![image](https://user-images.githubusercontent.com/44381554/230885842-e12ab080-07f4-443c-9bcc-f63c9c105f2e.png)
+
+
+
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
